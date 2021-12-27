@@ -1,0 +1,7 @@
+#include "cSprite.cpp"
+#include "cTransform.cpp"
+#include "main.cpp"
+#include "oPlayerRacket.cpp"
+#include "oRacket.cpp"
+#include "oStaticSprite.cpp"
+#include "Pong2.cpp"
